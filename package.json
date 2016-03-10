@@ -17,6 +17,7 @@
     "mysql":"latest",
     "connect-flash":"latest",
     "express-mysql-session":"latest",
-    "express-session":"latest"
+    "express-session":"latest",
+    "bower":"latest"
   }
 }
