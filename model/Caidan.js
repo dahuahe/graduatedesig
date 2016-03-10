@@ -7,3 +7,4 @@ var Caidan=db.define('Caidan',{
     Order:{type:Sequelize.INTEGER}
 }, {tableName:'BG_Caidan'});
 db.sync();
+module.exports=Caidan;
